@@ -1,0 +1,9 @@
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\bin\Debug\netstandard2.0\BookingClassLibrary.deps.json
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\bin\Debug\netstandard2.0\BookingClassLibrary.dll
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\bin\Debug\netstandard2.0\BookingClassLibrary.pdb
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.csprojAssemblyReference.cache
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.AssemblyInfoInputs.cache
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.AssemblyInfo.cs
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.dll
+C:\Users\msi1\source\repos\BookingClassLibrary\BookingClassLibrary\obj\Debug\netstandard2.0\BookingClassLibrary.pdb

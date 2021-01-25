@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSdjS7dKdp+zCkAgZNVw5s+BW389h1Aap3K5YL2q43wUN2+u9PudGGAIsN2Oyhi5jzMDTXBv7dixKqAATrHFHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi1\\source\\repos\\BookingClassLibrary\\BookingClassLibrary\\BookingClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msi1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
